@@ -1,3 +1,6 @@
+from typing import cast
+
+
 class Scorecard:
     """A scorecard for a single game"""
 
@@ -17,7 +20,7 @@ class Scorecard:
         self.scores: dict[str, int | None] = {
             category: None for category in self.ALL_CATEGORIES
         }  # None means the category hasn't been scored yet
-        self.yahtzee_bonus = (False, False, False)
+        self.yahtzee_bonus: tuple[bool, bool, bool] = (False, False, False)
         self.revision = 0
 
         self.player_num = player_num
@@ -38,7 +41,7 @@ class Scorecard:
             if not marked:
                 bonus_list = list(self.yahtzee_bonus)
                 bonus_list[i] = True
-                self.yahtzee_bonus = tuple(bonus_list)
+                self.yahtzee_bonus = cast(tuple[bool, bool, bool], tuple(bonus_list))
                 self.revision += 1
                 return
         raise ValueError("All Yahtzee bonus slots are already used.")
