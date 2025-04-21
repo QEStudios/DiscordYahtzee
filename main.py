@@ -11,9 +11,13 @@ class Scorecard:
     ]
     ALL_CATEGORIES = UPPER_SECTION + LOWER_SECTION
 
-    def __init__(self):
-        # None means the category hasn't been scored yet
-        self.scores = {category: None for category in self.ALL_CATEGORIES}
+    def __init__(self, player_num: int, player_name: str):
+        self.scores = {
+            category: None for category in self.ALL_CATEGORIES
+        }  # None means the category hasn't been scored yet
+
+        self.player_num = player_num
+        self.player_name = player_name
 
     def set_score(self, category: str, score: int):
         """Set score for a category. Raises error if already filled or invalid category."""
