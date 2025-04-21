@@ -108,5 +108,5 @@ class Scorecard:
 
     def __setattr__(self, name, value):
         if name in self.ALL_CATEGORIES:
-            self.set_score(self, name, value)
+            self.set_score(name, value)
         super().__setattr__(name, value)
