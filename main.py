@@ -12,7 +12,7 @@ class Scorecard:
     ALL_CATEGORIES = UPPER_SECTION + LOWER_SECTION
 
     def __init__(self, player_num: int, player_name: str):
-        self.scores = {
+        self.scores: dict[str, int | None] = {
             category: None for category in self.ALL_CATEGORIES
         }  # None means the category hasn't been scored yet
 
