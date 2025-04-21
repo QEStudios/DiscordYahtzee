@@ -70,7 +70,5 @@ class Scorecard:
 
     def __setattr__(self, name, value):
         if name in self.ALL_CATEGORIES:
-            if self.scores[name] is not None:
-                raise ValueError(f"Category '{name}' already scored.")
-            self.scores[name] = value
+            self.set_score(self, name, value)
         super().__setattr__(name, value)
