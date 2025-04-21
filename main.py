@@ -17,6 +17,7 @@ class Scorecard:
         self.scores: dict[str, int | None] = {
             category: None for category in self.ALL_CATEGORIES
         }  # None means the category hasn't been scored yet
+        self.yahtzee_bonus = (False, False, False)
         self.revision = 0
 
         self.player_num = player_num
@@ -30,6 +31,22 @@ class Scorecard:
             raise ValueError(f"Category '{category}' already scored.")
         self.scores[category] = score
         self.revision += 1
+
+    def mark_yahtzee_bonus(self) -> None:
+        """Marks the next available Yahtzee bonus slot as used."""
+        for i, marked in enumerate(self.yahtzee_bonus):
+            if not marked:
+                bonus_list = list(self.yahtzee_bonus)
+                bonus_list[i] = True
+                self.yahtzee_bonus = tuple(bonus_list)
+                self.revision += 1
+                return
+        raise ValueError("All Yahtzee bonus slots are already used.")
+
+    @property
+    def yahtzee_bonus_total(self) -> int:
+        """The calculated Yahtzee Bonus"""
+        return sum(self.yahtzee_bonus) * 100
 
     @property
     def upper_total(self) -> int:
@@ -57,7 +74,12 @@ class Scorecard:
     @property
     def total_score(self) -> int:
         """The calculated Grand Total score"""
-        return self.upper_total + self.upper_bonus + self.lower_total
+        return (
+            self.upper_total
+            + self.upper_bonus
+            + self.lower_total
+            + self.yahtzee_bonus_total
+        )
 
     @property
     def is_complete(self) -> bool:
@@ -73,6 +95,9 @@ class Scorecard:
             lines.append(
                 f"{cat.replace('_', ' ').capitalize():<15}: {self.scores[cat]}"
             )
+        lines.append(
+            f"{'Yahtzee Bonus':<15}: {self.yahtzee_bonus} (+{self.yahtzee_bonus_total})"
+        )
         lines.append(f"{'Total Score':<15}: {self.total_score}")
         return "\n".join(lines)
 
