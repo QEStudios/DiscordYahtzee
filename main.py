@@ -15,6 +15,7 @@ class Scorecard:
         self.scores: dict[str, int | None] = {
             category: None for category in self.ALL_CATEGORIES
         }  # None means the category hasn't been scored yet
+        self.revision = 0
 
         self.player_num = player_num
         self.player_name = player_name
@@ -26,6 +27,7 @@ class Scorecard:
         if self.scores[category] is not None:
             raise ValueError(f"Category '{category}' already scored.")
         self.scores[category] = score
+        self.revision += 1
 
     @property
     def upper_total(self):
