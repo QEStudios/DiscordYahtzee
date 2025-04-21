@@ -1,4 +1,6 @@
 class Scorecard:
+    """A scorecard for a single game"""
+
     UPPER_SECTION = ["ones", "twos", "threes", "fours", "fives", "sixes"]
     LOWER_SECTION = [
         "three_of_a_kind",
@@ -20,7 +22,7 @@ class Scorecard:
         self.player_num = player_num
         self.player_name = player_name
 
-    def set_score(self, category: str, score: int):
+    def set_score(self, category: str, score: int) -> None:
         """Set score for a category. Raises error if already filled or invalid category."""
         if category not in self.ALL_CATEGORIES:
             raise ValueError(f"Invalid category: {category}")
@@ -30,7 +32,8 @@ class Scorecard:
         self.revision += 1
 
     @property
-    def upper_total(self):
+    def upper_total(self) -> int:
+        """The calculated Total of Upper Section"""
         return sum(
             score
             for cat, score in self.scores.items()
@@ -38,11 +41,13 @@ class Scorecard:
         )
 
     @property
-    def upper_bonus(self):
+    def upper_bonus(self) -> int:
+        """The calculated Upper Section Bonus"""
         return 35 if self.upper_total >= 63 else 0
 
     @property
-    def lower_total(self):
+    def lower_total(self) -> int:
+        """The calculated Total of Lower Section"""
         return sum(
             score
             for cat, score in self.scores.items()
@@ -50,11 +55,13 @@ class Scorecard:
         )
 
     @property
-    def total_score(self):
+    def total_score(self) -> int:
+        """The calculated Grand Total score"""
         return self.upper_total + self.upper_bonus + self.lower_total
 
     @property
-    def is_complete(self):
+    def is_complete(self) -> bool:
+        """Returns True if the scorecard is completely filled, else False"""
         return all(score is not None for score in self.scores.values())
 
     def __str__(self):
