@@ -2,13 +2,13 @@ import yahtzee
 
 
 def test_game_creation():
-    game = main.Game(game_num=0, player_num=0, player_name="alice")
+    game = yahtzee.Game(game_num=0, player_num=0, player_name="alice")
 
-    assert isinstance(game, main.Game)
+    assert isinstance(game, yahtzee.Game)
 
 
 def test_game_score_setting():
-    game = main.Game(game_num=0, player_num=0, player_name="bob")
+    game = yahtzee.Game(game_num=0, player_num=0, player_name="bob")
 
     game.ones = 1
     game.twos = 2
@@ -30,7 +30,7 @@ def test_game_score_setting():
 
 
 def test_game_printing():
-    game = main.Game(game_num=0, player_num=0, player_name="charlie")
+    game = yahtzee.Game(game_num=0, player_num=0, player_name="charlie")
 
     game.ones = 3
     game.yahtzee = 100
