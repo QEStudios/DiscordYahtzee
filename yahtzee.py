@@ -2,8 +2,8 @@ from uuid import uuid4
 from typing import cast
 
 
-class GameScorecard:
-    """A scorecard for a single game"""
+class Game:
+    """A single game for a single player"""
 
     UPPER_SECTION = ["ones", "twos", "threes", "fours", "fives", "sixes"]
     LOWER_SECTION = [
