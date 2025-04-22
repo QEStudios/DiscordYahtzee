@@ -28,20 +28,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.68235806"
-     inkscape:cx="496.07386"
-     inkscape:cy="599.39205"
+     inkscape:zoom="2.7294322"
+     inkscape:cx="121.82021"
+     inkscape:cy="438.18637"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1072"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8058"
+     inkscape:current-layer="g5613-0-5-9-0"
      showguides="false"><inkscape:grid
        type="xygrid"
        id="grid182"
        originx="0"
-       originy="0" /></sodipodi:namedview><defs
+       originy="0"
+       enabled="true"
+       visible="false" /></sodipodi:namedview><defs
      id="defs2"><marker
        style="overflow:visible"
        id="TriangleStart"
@@ -1310,7 +1312,27 @@
        y="260"
        width="192"
        height="60"
-       id="rect41605" /></defs><g
+       id="rect41605" /><rect
+       x="50"
+       y="260"
+       width="190.504"
+       height="37.611839"
+       id="rect6612" /><rect
+       x="50"
+       y="260"
+       width="190.504"
+       height="37.611839"
+       id="rect8384" /><rect
+       x="50"
+       y="260"
+       width="190.504"
+       height="37.611839"
+       id="rect8410" /><rect
+       x="50"
+       y="260"
+       width="190.504"
+       height="37.611839"
+       id="rect8436" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><rect
@@ -1345,9 +1367,9 @@
              y="0"><tspan
                x="50"
                y="282.31984"
-               id="tspan66245"><tspan
+               id="tspan9717"><tspan
                  style="text-align:start"
-                 id="tspan66243">UPPER SECTION</tspan></tspan></text></g><g
+                 id="tspan9715">UPPER SECTION</tspan></tspan></text></g><g
            id="g5617"
            inkscape:label="How To Score"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1364,7 +1386,7 @@
              inkscape:label="Text"><tspan
                x="72.343948"
                y="282.31984"
-               id="tspan66247">HOW TO SCORE</tspan></text></g><g
+               id="tspan9719">HOW TO SCORE</tspan></text></g><g
            id="g5620"
            inkscape:label="Game 1"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1381,11 +1403,11 @@
              inkscape:label="Text"><tspan
                x="118.59197"
                y="279.31984"
-               id="tspan66249">GAME
+               id="tspan9721">GAME
 </tspan><tspan
                x="141.38"
                y="303.31984"
-               id="tspan66251">1</tspan></text></g><g
+               id="tspan9723">1</tspan></text></g><g
            id="g5623"
            inkscape:label="Game 2"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1402,11 +1424,11 @@
              inkscape:label="Text"><tspan
                x="118.59197"
                y="279.31984"
-               id="tspan66253">GAME
+               id="tspan9725">GAME
 </tspan><tspan
                x="139.832"
                y="303.31984"
-               id="tspan66255">2</tspan></text></g><g
+               id="tspan9727">2</tspan></text></g><g
            id="g5626"
            inkscape:label="Game 3"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1423,11 +1445,11 @@
              inkscape:label="Text"><tspan
                x="118.59197"
                y="279.31984"
-               id="tspan66257">GAME
+               id="tspan9729">GAME
 </tspan><tspan
                x="139.832"
                y="303.31984"
-               id="tspan66259">3</tspan></text></g><g
+               id="tspan9731">3</tspan></text></g><g
            id="g5629"
            inkscape:label="Game 4"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1444,11 +1466,11 @@
              inkscape:label="Text"><tspan
                x="118.59197"
                y="279.31984"
-               id="tspan66261">GAME
+               id="tspan9733">GAME
 </tspan><tspan
                x="139.712"
                y="303.31984"
-               id="tspan66263">4</tspan></text></g><g
+               id="tspan9735">4</tspan></text></g><g
            id="g5634"
            inkscape:label="Game 5"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1465,11 +1487,11 @@
              inkscape:label="Text"><tspan
                x="118.59197"
                y="279.31984"
-               id="tspan66265">GAME
+               id="tspan9737">GAME
 </tspan><tspan
                x="136.81998"
                y="303.31984"
-               id="tspan66267"> 5</tspan></text></g><g
+               id="tspan9739"> 5</tspan></text></g><g
            id="g5637"
            inkscape:label="Game 6"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1486,11 +1508,11 @@
              inkscape:label="Text"><tspan
                x="118.59197"
                y="279.31984"
-               id="tspan66269">GAME
+               id="tspan9741">GAME
 </tspan><tspan
                x="136.75999"
                y="303.31984"
-               id="tspan66271"> 3</tspan></text></g></g><g
+               id="tspan9743"> 3</tspan></text></g></g><g
          id="g4416-8"
          inkscape:label="Aces"
          transform="translate(-2.9251255e-6,15.875)"><g
@@ -1512,9 +1534,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66275"><tspan
+               id="tspan9747"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66273">Aces</tspan></tspan></text><text
+                 id="tspan9745">Aces</tspan></tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,35.563526,3.3633844)"
              id="text10119"
@@ -1524,7 +1546,7 @@
              y="0"><tspan
                x="50"
                y="288.87497"
-               id="tspan66277">＝</tspan></text><text
+               id="tspan9749">＝</tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,20.731328,3.3655592)"
              id="text4641-5-9"
@@ -1534,7 +1556,7 @@
              y="0"><tspan
                x="139.60529"
                y="287.27977"
-               id="tspan66279">1</tspan></text><g
+               id="tspan9751">1</tspan></text><g
              id="g7369"
              inkscape:label="Die"><rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -1566,15 +1588,15 @@
              inkscape:label="Text"><tspan
                x="83.984032"
                y="279.31984"
-               id="tspan66283"><tspan
+               id="tspan9755"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66281">Count and add
+                 id="tspan9753">Count and add
 </tspan></tspan><tspan
                x="105.116"
                y="303.31984"
-               id="tspan66287"><tspan
+               id="tspan9759"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66285">only Aces</tspan></tspan></text></g><g
+                 id="tspan9757">only Aces</tspan></tspan></text></g><g
            id="g5620-5"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1591,7 +1613,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66289">0</tspan></text><path
+               id="tspan9761">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,67.468749 17.19791,-7.9375"
              id="path35334"
@@ -1614,7 +1636,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66291">0</tspan></text><path
+               id="tspan9763">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697914 17.19791,-7.9375"
              id="path35334-0"
@@ -1636,7 +1658,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66293">0</tspan></text><path
+               id="tspan9765">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697917 17.19791,-7.9375"
              id="path41341"
@@ -1658,7 +1680,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66295">0</tspan></text><path
+               id="tspan9767">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697917 17.19791,-7.9375"
              id="path41343"
@@ -1680,7 +1702,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66297">0</tspan></text><path
+               id="tspan9769">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697917 17.19791,-7.9375"
              id="path41347"
@@ -1702,7 +1724,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66299">0</tspan></text><path
+               id="tspan9771">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697917 17.19791,-7.9375"
              id="path41350"
@@ -1729,9 +1751,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66303"><tspan
+               id="tspan9775"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66301">Twos</tspan></tspan></text><text
+                 id="tspan9773">Twos</tspan></tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,35.563526,3.363381)"
              id="text10119-4"
@@ -1741,7 +1763,7 @@
              y="0"><tspan
                x="50"
                y="288.87497"
-               id="tspan66305">＝</tspan></text><text
+               id="tspan9777">＝</tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,20.731329,3.3655559)"
              id="text4641-5-9-4"
@@ -1751,7 +1773,7 @@
              y="0"><tspan
                x="137.7133"
                y="287.27977"
-               id="tspan66307">2</tspan></text><g
+               id="tspan9779">2</tspan></text><g
              id="g7369-5"
              inkscape:label="Die"><rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -1789,15 +1811,15 @@
              inkscape:label="Text"><tspan
                x="83.984032"
                y="279.31984"
-               id="tspan66311"><tspan
+               id="tspan9783"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66309">Count and add
+                 id="tspan9781">Count and add
 </tspan></tspan><tspan
                x="104.58802"
                y="303.31984"
-               id="tspan66315"><tspan
+               id="tspan9787"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66313">only Twos</tspan></tspan></text></g><g
+                 id="tspan9785">only Twos</tspan></tspan></text></g><g
            id="g5620-5-4"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1814,7 +1836,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66317">0</tspan></text><path
+               id="tspan9789">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697919 17.19791,-7.9375"
              id="path41354"
@@ -1836,7 +1858,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66319">0</tspan></text><path
+               id="tspan9791">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697917 17.19791,-7.9375"
              id="path41356"
@@ -1858,7 +1880,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66321">0</tspan></text><path
+               id="tspan9793">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.69792 17.19791,-7.9375"
              id="path41358"
@@ -1880,7 +1902,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66323">0</tspan></text><path
+               id="tspan9795">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.69792 17.19791,-7.9375"
              id="path41360"
@@ -1902,7 +1924,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66325">0</tspan></text><path
+               id="tspan9797">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.69792 17.19791,-7.9375"
              id="path41362"
@@ -1924,7 +1946,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66327">0</tspan></text><path
+               id="tspan9799">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.69792 17.19791,-7.9375"
              id="path41364"
@@ -1951,9 +1973,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66331"><tspan
+               id="tspan9803"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66329">Threes</tspan></tspan></text><text
+                 id="tspan9801">Threes</tspan></tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,35.563529,3.3633803)"
              id="text10119-6"
@@ -1963,19 +1985,17 @@
              y="0"><tspan
                x="50"
                y="288.87497"
-               id="tspan66333">＝</tspan></text><text
+               id="tspan9805">＝</tspan></text><text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,20.73133,3.3655552)"
-             id="text4641-5-9-45"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:start;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect4643-3-6-9);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             transform="matrix(0.26458333,0,0,0.26458333,20.731329,3.3654639)"
+             id="text6610"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect6612);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
              inkscape:label="Die Value"
-             x="-11.884018"
+             x="-11.854685"
              y="0"><tspan
                x="137.7133"
                y="287.27977"
-               id="tspan66337"><tspan
-                 style="text-align:center;text-anchor:middle"
-                 id="tspan66335">3</tspan></tspan></text><g
+               id="tspan9807">3</tspan></text><g
              id="g7369-1"
              inkscape:label="Die"><rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -2019,15 +2039,15 @@
              inkscape:label="Text"><tspan
                x="83.984032"
                y="279.31984"
-               id="tspan66341"><tspan
+               id="tspan9811"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66339">Count and add
+                 id="tspan9809">Count and add
 </tspan></tspan><tspan
                x="96.728035"
                y="303.31984"
-               id="tspan66345"><tspan
+               id="tspan9815"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66343">only Threes</tspan></tspan></text></g><g
+                 id="tspan9813">only Threes</tspan></tspan></text></g><g
            id="g5620-5-6"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2044,7 +2064,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66347">0</tspan></text><path
+               id="tspan9817">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,96.572919 17.19791,-7.9375"
              id="path41377"
@@ -2067,7 +2087,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66349">0</tspan></text><path
+               id="tspan9819">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,96.572917 17.19791,-7.9375"
              id="path41379"
@@ -2090,7 +2110,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66351">0</tspan></text><path
+               id="tspan9821">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,96.57292 17.19791,-7.9375"
              id="path41381"
@@ -2113,7 +2133,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66353">0</tspan></text><path
+               id="tspan9823">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,96.57292 17.19791,-7.9375"
              id="path41383"
@@ -2136,7 +2156,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66355">0</tspan></text><path
+               id="tspan9825">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,96.57292 17.19791,-7.9375"
              id="path41385"
@@ -2159,7 +2179,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66357">0</tspan></text><path
+               id="tspan9827">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,96.57292 17.19791,-7.9375"
              id="path41387"
@@ -2187,9 +2207,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66361"><tspan
+               id="tspan9831"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66359">Fours</tspan></tspan></text><text
+                 id="tspan9829">Fours</tspan></tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,35.563528,3.3633797)"
              id="text10119-8"
@@ -2199,19 +2219,17 @@
              y="0"><tspan
                x="50"
                y="288.87497"
-               id="tspan66363">＝</tspan></text><text
+               id="tspan9833">＝</tspan></text><text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,20.731328,3.3655549)"
-             id="text4641-5-9-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:start;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect4643-3-6-50);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             transform="matrix(0.26458333,0,0,0.26458333,20.731329,3.3655522)"
+             id="text8382"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect8384);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
              inkscape:label="Die Value"
-             x="-11.370685"
+             x="-11.854685"
              y="0"><tspan
                x="137.56663"
                y="287.27977"
-               id="tspan66367"><tspan
-                 style="text-align:center;text-anchor:middle"
-                 id="tspan66365">4</tspan></tspan></text><g
+               id="tspan9835">4</tspan></text><g
              id="g7369-5-1"
              inkscape:label="Die"><rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -2261,15 +2279,15 @@
              inkscape:label="Text"><tspan
                x="83.984032"
                y="279.31984"
-               id="tspan66371"><tspan
+               id="tspan9839"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66369">Count and add
+                 id="tspan9837">Count and add
 </tspan></tspan><tspan
                x="102.18801"
                y="303.31984"
-               id="tspan66375"><tspan
+               id="tspan9843"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66373">only Fours</tspan></tspan></text></g><g
+                 id="tspan9841">only Fours</tspan></tspan></text></g><g
            id="g5620-5-4-5"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2286,7 +2304,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66377">0</tspan></text><path
+               id="tspan9845">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697918 17.19791,-7.9375"
              id="path41395"
@@ -2308,7 +2326,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66379">0</tspan></text><path
+               id="tspan9847">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697916 17.19791,-7.9375"
              id="path41397"
@@ -2330,7 +2348,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66381">0</tspan></text><path
+               id="tspan9849">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697919 17.19791,-7.9375"
              id="path41399"
@@ -2352,7 +2370,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66383">0</tspan></text><path
+               id="tspan9851">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697919 17.19791,-7.9375"
              id="path41401"
@@ -2374,7 +2392,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66385">0</tspan></text><path
+               id="tspan9853">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697919 17.19791,-7.9375"
              id="path41403"
@@ -2396,7 +2414,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66387">0</tspan></text><path
+               id="tspan9855">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697919 17.19791,-7.9375"
              id="path41405"
@@ -2423,9 +2441,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66391"><tspan
+               id="tspan9859"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66389">Fives</tspan></tspan></text><text
+                 id="tspan9857">Fives</tspan></tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,35.563529,3.3633803)"
              id="text10119-6-7"
@@ -2435,19 +2453,17 @@
              y="0"><tspan
                x="50"
                y="288.87497"
-               id="tspan66393">＝</tspan></text><text
+               id="tspan9861">＝</tspan></text><text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,20.73133,3.3655552)"
-             id="text4641-5-9-45-1"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:start;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect4643-3-6-9-3);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             transform="matrix(0.26458333,0,0,0.26458333,20.731329,3.365552)"
+             id="text8408"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect8410);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
              inkscape:label="Die Value"
-             x="-5.5333586"
+             x="-11.854685"
              y="0"><tspan
                x="137.78662"
                y="287.27977"
-               id="tspan66397"><tspan
-                 style="text-align:center;text-anchor:middle"
-                 id="tspan66395">5</tspan></tspan></text><g
+               id="tspan9863">5</tspan></text><g
              id="g7369-1-2"
              inkscape:label="Die"><rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -2503,15 +2519,15 @@
              inkscape:label="Text"><tspan
                x="83.984032"
                y="279.31984"
-               id="tspan66401"><tspan
+               id="tspan9867"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66399">Count and add
+                 id="tspan9865">Count and add
 </tspan></tspan><tspan
                x="103.832"
                y="303.31984"
-               id="tspan66405"><tspan
+               id="tspan9871"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66403">only Fives</tspan></tspan></text></g><g
+                 id="tspan9869">only Fives</tspan></tspan></text></g><g
            id="g5620-5-6-8"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2528,7 +2544,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66407">0</tspan></text><path
+               id="tspan9873">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697918 17.19791,-7.9375"
              id="path41413"
@@ -2550,7 +2566,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66409">0</tspan></text><path
+               id="tspan9875">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697916 17.19791,-7.9375"
              id="path41415"
@@ -2572,7 +2588,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66411">0</tspan></text><path
+               id="tspan9877">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697919 17.19791,-7.9375"
              id="path41417"
@@ -2595,7 +2611,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66413">0</tspan></text><path
+               id="tspan9879">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697919 17.19791,-7.9375"
              id="path41419"
@@ -2617,7 +2633,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66415">0</tspan></text><path
+               id="tspan9881">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697919 17.19791,-7.9375"
              id="path41421"
@@ -2639,7 +2655,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66417">0</tspan></text><path
+               id="tspan9883">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697919 17.19791,-7.9375"
              id="path41423"
@@ -2666,9 +2682,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66421"><tspan
+               id="tspan9887"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66419">Sixes</tspan></tspan></text><text
+                 id="tspan9885">Sixes</tspan></tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,35.563528,3.3633797)"
              id="text10119-8-8"
@@ -2678,19 +2694,17 @@
              y="0"><tspan
                x="50"
                y="288.87497"
-               id="tspan66423">＝</tspan></text><text
+               id="tspan9889">＝</tspan></text><text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,20.731328,3.3655549)"
-             id="text4641-5-9-3-9"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:start;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect4643-3-6-50-1);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             transform="matrix(0.26458333,0,0,0.26458333,20.731329,3.3654633)"
+             id="text8434"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect8436);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
              inkscape:label="Die Value"
-             x="-4.3306928"
+             x="-11.854685"
              y="0"><tspan
                x="137.36129"
                y="287.27977"
-               id="tspan66427"><tspan
-                 style="text-align:center;text-anchor:middle"
-                 id="tspan66425">6</tspan></tspan></text><g
+               id="tspan9891">6</tspan></text><g
              id="g7369-5-1-1"
              inkscape:label="Die"><rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -2752,15 +2766,15 @@
              inkscape:label="Text"><tspan
                x="83.984032"
                y="279.31984"
-               id="tspan66431"><tspan
+               id="tspan9895"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66429">Count and add
+                 id="tspan9893">Count and add
 </tspan></tspan><tspan
                x="102.95602"
                y="303.31984"
-               id="tspan66435"><tspan
+               id="tspan9899"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66433">only Sixes</tspan></tspan></text></g><g
+                 id="tspan9897">only Sixes</tspan></tspan></text></g><g
            id="g5620-5-4-5-8"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2777,7 +2791,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66437">0</tspan></text><path
+               id="tspan9901">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697918 17.19791,-7.9375"
              id="path41431"
@@ -2800,7 +2814,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66439">0</tspan></text><path
+               id="tspan9903">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697916 17.19791,-7.9375"
              id="path41433"
@@ -2823,7 +2837,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66441">0</tspan></text><path
+               id="tspan9905">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697919 17.19791,-7.9375"
              id="path41435"
@@ -2846,7 +2860,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66443">0</tspan></text><path
+               id="tspan9907">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697919 17.19791,-7.9375"
              id="path41437"
@@ -2869,7 +2883,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66445">0</tspan></text><path
+               id="tspan9909">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697919 17.19791,-7.9375"
              id="path41439"
@@ -2892,7 +2906,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66447">0</tspan></text><path
+               id="tspan9911">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697919 17.19791,-7.9375"
              id="path41441"
@@ -2920,7 +2934,7 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66449">TOTAL</tspan></text></g><g
+               id="tspan9913">TOTAL</tspan></text></g><g
            id="g5617-2-1-7-2-8"
            inkscape:label="How To Score"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2951,7 +2965,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66451">0</tspan></text></g><g
+               id="tspan9915">0</tspan></text></g><g
            id="g5623-7-2-2-2-0"
            inkscape:label="Game 2"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2968,7 +2982,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66453">0</tspan></text></g><g
+               id="tspan9917">0</tspan></text></g><g
            id="g5626-2-6-4-6-3"
            inkscape:label="Game 3"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -2985,7 +2999,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66455">0</tspan></text></g><g
+               id="tspan9919">0</tspan></text></g><g
            id="g5629-3-2-2-2-2"
            inkscape:label="Game 4"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3002,7 +3016,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66457">0</tspan></text></g><g
+               id="tspan9921">0</tspan></text></g><g
            id="g5634-1-6-5-9-7"
            inkscape:label="Game 5"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3019,7 +3033,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66459">0</tspan></text></g><g
+               id="tspan9923">0</tspan></text></g><g
            id="g5637-2-6-2-7-3"
            inkscape:label="Game 6"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3036,7 +3050,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66461">0</tspan></text></g></g><g
+               id="tspan9925">0</tspan></text></g></g><g
          id="g4416-8-4-4-7-5"
          inkscape:label="Bonus"
          transform="translate(-2.9251255e-6,127)"><g
@@ -3058,7 +3072,7 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66463">BONUS</tspan></text><text
+               id="tspan9927">BONUS</tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,13.653948,3.4703004)"
              id="text4641-5-4-3-5-0"
@@ -3068,15 +3082,15 @@
              y="0"><tspan
                x="95.311794"
                y="275.02657"
-               id="tspan66467"><tspan
+               id="tspan9931"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66465">If total score
+                 id="tspan9929">If total score
 </tspan></tspan><tspan
                x="95.759816"
                y="293.69325"
-               id="tspan66471"><tspan
+               id="tspan9935"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66469">is 63 or over</tspan></tspan></text></g><g
+                 id="tspan9933">is 63 or over</tspan></tspan></text></g><g
            id="g5617-2-1-7-2-7"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3093,9 +3107,9 @@
              inkscape:label="Text"><tspan
                x="102.38004"
                y="279.31984"
-               id="tspan66475"><tspan
+               id="tspan9939"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66473">SCORE 35</tspan></tspan></text></g><g
+                 id="tspan9937">SCORE 35</tspan></tspan></text></g><g
            id="g5620-5-4-5-8-8"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3112,7 +3126,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66477">0</tspan></text></g><g
+               id="tspan9941">0</tspan></text></g><g
            id="g5623-7-2-2-2-1"
            inkscape:label="Game 2"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3129,7 +3143,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66479">0</tspan></text></g><g
+               id="tspan9943">0</tspan></text></g><g
            id="g5626-2-6-4-6-7"
            inkscape:label="Game 3"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3146,7 +3160,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66481">0</tspan></text></g><g
+               id="tspan9945">0</tspan></text></g><g
            id="g5629-3-2-2-2-26"
            inkscape:label="Game 4"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3163,7 +3177,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66483">0</tspan></text></g><g
+               id="tspan9947">0</tspan></text></g><g
            id="g5634-1-6-5-9-8"
            inkscape:label="Game 5"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3180,7 +3194,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66485">0</tspan></text></g><g
+               id="tspan9949">0</tspan></text></g><g
            id="g5637-2-6-2-7-6"
            inkscape:label="Game 6"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3197,7 +3211,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66487">0</tspan></text></g></g><g
+               id="tspan9951">0</tspan></text></g></g><g
          id="g4416-8-4-4-7-9-8"
          inkscape:label="Total Of Upper Section"
          transform="translate(-3.4181895e-6,142.875)"><g
@@ -3219,7 +3233,7 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66489">TOTAL</tspan></text><text
+               id="tspan9953">TOTAL</tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,13.653948,2.9936929)"
              id="text4641-5-4-3-5-0-3"
@@ -3229,15 +3243,15 @@
              y="0"><tspan
                x="108.22918"
                y="275.9599"
-               id="tspan66493"><tspan
+               id="tspan9957"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66491">Of Upper
+                 id="tspan9955">Of Upper
 </tspan></tspan><tspan
                x="113.13851"
                y="296.49329"
-               id="tspan66497"><tspan
+               id="tspan9961"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66495">Section</tspan></tspan></text></g><g
+                 id="tspan9959">Section</tspan></tspan></text></g><g
            id="g5617-2-1-7-2-8-8"
            inkscape:label="How To Score"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3268,7 +3282,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66499">0</tspan></text></g><g
+               id="tspan9963">0</tspan></text></g><g
            id="g5623-7-2-2-2-0-6"
            inkscape:label="Game 2"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3285,7 +3299,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66501">0</tspan></text></g><g
+               id="tspan9965">0</tspan></text></g><g
            id="g5626-2-6-4-6-3-4"
            inkscape:label="Game 3"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3302,7 +3316,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66503">0</tspan></text></g><g
+               id="tspan9967">0</tspan></text></g><g
            id="g5629-3-2-2-2-2-6"
            inkscape:label="Game 4"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3319,7 +3333,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66505">0</tspan></text></g><g
+               id="tspan9969">0</tspan></text></g><g
            id="g5634-1-6-5-9-7-6"
            inkscape:label="Game 5"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3336,7 +3350,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66507">0</tspan></text></g><g
+               id="tspan9971">0</tspan></text></g><g
            id="g5637-2-6-2-7-3-7"
            inkscape:label="Game 6"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3353,7 +3367,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66509">0</tspan></text></g></g></g><g
+               id="tspan9973">0</tspan></text></g></g></g><g
        id="g30584"
        inkscape:label="Lower Section"
        transform="translate(-10.583331,15.874995)"><g
@@ -3378,9 +3392,9 @@
              y="0"><tspan
                x="50"
                y="282.31984"
-               id="tspan66513"><tspan
+               id="tspan9977"><tspan
                  style="text-align:start"
-                 id="tspan66511">LOWER SECTION</tspan></tspan></text></g></g><g
+                 id="tspan9975">LOWER SECTION</tspan></tspan></text></g></g><g
          id="g4416-8-7"
          inkscape:label="3 of a Kind"
          transform="translate(10.583333,134.9375)"><g
@@ -3402,9 +3416,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66517"><tspan
+               id="tspan9981"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66515">3 of a Kind</tspan></tspan></text></g><g
+                 id="tspan9979">3 of a Kind</tspan></tspan></text></g><g
            id="g5617-2-2"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3421,15 +3435,15 @@
              inkscape:label="Text"><tspan
                x="106.592"
                y="279.31984"
-               id="tspan66521"><tspan
+               id="tspan9985"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66519">Add total
+                 id="tspan9983">Add total
 </tspan></tspan><tspan
                x="103.58"
                y="303.31984"
-               id="tspan66525"><tspan
+               id="tspan9989"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66523">of all dice</tspan></tspan></text></g><g
+                 id="tspan9987">of all dice</tspan></tspan></text></g><g
            id="g5620-5-1"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3446,7 +3460,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66527">0</tspan></text><path
+               id="tspan9991">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697914 17.19791,-7.9375"
              id="path41567"
@@ -3468,7 +3482,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66529">0</tspan></text><path
+               id="tspan9993">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697914 17.19791,-7.9375"
              id="path41569"
@@ -3490,7 +3504,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66531">0</tspan></text><path
+               id="tspan9995">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697914 17.19791,-7.9375"
              id="path41571"
@@ -3512,7 +3526,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66533">0</tspan></text><path
+               id="tspan9997">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697914 17.19791,-7.9375"
              id="path41573"
@@ -3534,7 +3548,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66535">0</tspan></text><path
+               id="tspan9999">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697914 17.19791,-7.9375"
              id="path41575"
@@ -3556,7 +3570,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66537">0</tspan></text><path
+               id="tspan10001">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697914 17.19791,-7.9375"
              id="path41577"
@@ -3583,9 +3597,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66541"><tspan
+               id="tspan10005"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66539">4 of a Kind</tspan></tspan></text></g><g
+                 id="tspan10003">4 of a Kind</tspan></tspan></text></g><g
            id="g5617-2-1-0"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3602,15 +3616,15 @@
              inkscape:label="Text"><tspan
                x="106.592"
                y="279.31984"
-               id="tspan66545"><tspan
+               id="tspan10009"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66543">Add total
+                 id="tspan10007">Add total
 </tspan></tspan><tspan
                x="103.58"
                y="303.31984"
-               id="tspan66549"><tspan
+               id="tspan10013"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66547">of all dice</tspan></tspan></text></g><g
+                 id="tspan10011">of all dice</tspan></tspan></text></g><g
            id="g5620-5-4-4"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3627,7 +3641,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66551">0</tspan></text><path
+               id="tspan10015">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697918 17.19791,-7.9375"
              id="path41593"
@@ -3650,7 +3664,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66553">0</tspan></text><path
+               id="tspan10017">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697918 17.19791,-7.9375"
              id="path41595"
@@ -3673,7 +3687,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66555">0</tspan></text><path
+               id="tspan10019">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697918 17.19791,-7.9375"
              id="path41597"
@@ -3696,7 +3710,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66557">0</tspan></text><path
+               id="tspan10021">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697918 17.19791,-7.9375"
              id="path41599"
@@ -3719,7 +3733,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66559">0</tspan></text><path
+               id="tspan10023">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697918 17.19791,-7.9375"
              id="path41601"
@@ -3742,7 +3756,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66561">0</tspan></text><path
+               id="tspan10025">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697918 17.19791,-7.9375"
              id="path41603"
@@ -3770,9 +3784,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66565"><tspan
+               id="tspan10029"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66563">Full House</tspan></tspan></text></g><g
+                 id="tspan10027">Full House</tspan></tspan></text></g><g
            id="g5617-2-16-9"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3789,9 +3803,9 @@
              inkscape:label="Text"><tspan
                x="102.36803"
                y="279.31984"
-               id="tspan66569"><tspan
+               id="tspan10033"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66567">SCORE 25</tspan></tspan></text></g><g
+                 id="tspan10031">SCORE 25</tspan></tspan></text></g><g
            id="g5620-5-6-0"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3808,7 +3822,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66571">0</tspan></text><path
+               id="tspan10035">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697918 17.19791,-7.9375"
              id="path41631"
@@ -3831,7 +3845,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66573">0</tspan></text><path
+               id="tspan10037">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697918 17.19791,-7.9375"
              id="path41633"
@@ -3854,7 +3868,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66575">0</tspan></text><path
+               id="tspan10039">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697918 17.19791,-7.9375"
              id="path41635"
@@ -3877,7 +3891,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66577">0</tspan></text><path
+               id="tspan10041">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697918 17.19791,-7.9375"
              id="path41637"
@@ -3900,7 +3914,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66579">0</tspan></text><path
+               id="tspan10043">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697918 17.19791,-7.9375"
              id="path41639"
@@ -3923,7 +3937,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66581">0</tspan></text><path
+               id="tspan10045">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697918 17.19791,-7.9375"
              id="path41641"
@@ -3951,9 +3965,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66585"><tspan
+               id="tspan10049"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66583">SM Straight</tspan></tspan></text></g><g
+                 id="tspan10047">SM Straight</tspan></tspan></text></g><g
            id="g5617-2-1-7-0"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3970,9 +3984,9 @@
              inkscape:label="Text"><tspan
                x="101.88804"
                y="279.31984"
-               id="tspan66589"><tspan
+               id="tspan10053"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66587">SCORE 30</tspan></tspan></text></g><g
+                 id="tspan10051">SCORE 30</tspan></tspan></text></g><g
            id="g5620-5-4-5-6"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -3989,7 +4003,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66591">0</tspan></text><path
+               id="tspan10055">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697917 17.19791,-7.9375"
              id="path41649"
@@ -4011,7 +4025,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66593">0</tspan></text><path
+               id="tspan10057">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697917 17.19791,-7.9375"
              id="path41651"
@@ -4033,7 +4047,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66595">0</tspan></text><path
+               id="tspan10059">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697917 17.19791,-7.9375"
              id="path41653"
@@ -4055,7 +4069,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66597">0</tspan></text><path
+               id="tspan10061">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697917 17.19791,-7.9375"
              id="path41655"
@@ -4077,7 +4091,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66599">0</tspan></text><path
+               id="tspan10063">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697917 17.19791,-7.9375"
              id="path41657"
@@ -4099,7 +4113,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66601">0</tspan></text><path
+               id="tspan10065">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697917 17.19791,-7.9375"
              id="path41659"
@@ -4126,9 +4140,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66605"><tspan
+               id="tspan10069"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66603">LG Straight</tspan></tspan></text></g><g
+                 id="tspan10067">LG Straight</tspan></tspan></text></g><g
            id="g5617-2-16-5-0"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -4145,9 +4159,9 @@
              inkscape:label="Text"><tspan
                x="101.81603"
                y="279.31984"
-               id="tspan66609"><tspan
+               id="tspan10073"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66607">SCORE 40</tspan></tspan></text></g><g
+                 id="tspan10071">SCORE 40</tspan></tspan></text></g><g
            id="g5620-5-6-8-7"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -4164,7 +4178,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66611">0</tspan></text><path
+               id="tspan10075">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697917 17.19791,-7.9375"
              id="path41667"
@@ -4186,7 +4200,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66613">0</tspan></text><path
+               id="tspan10077">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697917 17.19791,-7.9375"
              id="path41669"
@@ -4208,7 +4222,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66615">0</tspan></text><path
+               id="tspan10079">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697917 17.19791,-7.9375"
              id="path41671"
@@ -4230,7 +4244,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66617">0</tspan></text><path
+               id="tspan10081">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697917 17.19791,-7.9375"
              id="path41673"
@@ -4252,7 +4266,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66619">0</tspan></text><path
+               id="tspan10083">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697917 17.19791,-7.9375"
              id="path41675"
@@ -4274,7 +4288,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66621">0</tspan></text><path
+               id="tspan10085">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697917 17.19791,-7.9375"
              id="path41677"
@@ -4301,9 +4315,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66625"><tspan
+               id="tspan10089"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66623">YAHTZEE</tspan></tspan></text></g><g
+                 id="tspan10087">YAHTZEE</tspan></tspan></text></g><g
            id="g5617-2-1-7-2-6"
            inkscape:label="How To Score"><rect
              style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -4320,9 +4334,9 @@
              inkscape:label="Text"><tspan
                x="101.90003"
                y="279.31984"
-               id="tspan66629"><tspan
+               id="tspan10093"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66627">SCORE 50</tspan></tspan></text></g><g
+                 id="tspan10091">SCORE 50</tspan></tspan></text></g><g
            id="g5620-5-4-5-8-1"
            inkscape:label="Game 1"><rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -4339,7 +4353,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66631">0</tspan></text><path
+               id="tspan10095">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697917 17.19791,-7.9375"
              id="path41691"
@@ -4361,7 +4375,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66633">0</tspan></text><path
+               id="tspan10097">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697917 17.19791,-7.9375"
              id="path41693"
@@ -4383,7 +4397,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66635">0</tspan></text><path
+               id="tspan10099">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697917 17.19791,-7.9375"
              id="path41695"
@@ -4405,7 +4419,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66637">0</tspan></text><path
+               id="tspan10101">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697917 17.19791,-7.9375"
              id="path41697"
@@ -4427,7 +4441,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66639">0</tspan></text><path
+               id="tspan10103">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697917 17.19791,-7.9375"
              id="path41699"
@@ -4449,7 +4463,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66641">0</tspan></text><path
+               id="tspan10105">0</tspan></text><path
              style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697917 17.19791,-7.9375"
              id="path41701"
@@ -4478,9 +4492,9 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66645"><tspan
+               id="tspan10109"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66643">Chance</tspan></tspan></text></g><g
+                 id="tspan10107">Chance</tspan></tspan></text></g><g
            id="g5617-2-1-7-2-6-9"
            inkscape:label="How To Score"
            style="stroke-width:1.00012;stroke-dasharray:none"><rect
@@ -4498,15 +4512,15 @@
              inkscape:label="Text"><tspan
                x="98.58802"
                y="279.31984"
-               id="tspan66649"><tspan
+               id="tspan10113"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66647">Score total
+                 id="tspan10111">Score total
 </tspan></tspan><tspan
                x="103.58"
                y="303.31984"
-               id="tspan66653"><tspan
+               id="tspan10117"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66651">of all dice</tspan></tspan></text></g><g
+                 id="tspan10115">of all dice</tspan></tspan></text></g><g
            id="g5620-5-4-5-8-1-0"
            inkscape:label="Game 1"
            style="stroke-width:1.00012;stroke-dasharray:none"><rect
@@ -4524,7 +4538,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66655">0</tspan></text><path
+               id="tspan10119">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 119.0625,80.697916 17.19791,-7.9375"
              id="path41709"
@@ -4547,7 +4561,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66657">0</tspan></text><path
+               id="tspan10121">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 144.3302,80.697916 17.19791,-7.9375"
              id="path41711"
@@ -4570,7 +4584,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66659">0</tspan></text><path
+               id="tspan10123">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 169.73021,80.697916 17.19791,-7.9375"
              id="path41713"
@@ -4593,7 +4607,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66661">0</tspan></text><path
+               id="tspan10125">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 195.13021,80.697916 17.19791,-7.9375"
              id="path41715"
@@ -4616,7 +4630,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66663">0</tspan></text><path
+               id="tspan10127">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 220.5302,80.697916 17.19791,-7.9375"
              id="path41717"
@@ -4639,7 +4653,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66665">0</tspan></text><path
+               id="tspan10129">0</tspan></text><path
              style="stroke-width:2.11667;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              d="m 245.9302,80.697916 17.19791,-7.9375"
              id="path41719"
@@ -4661,24 +4675,6 @@
              y="68.791664"
              inkscape:label="Cell" /><text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,0.21665139,7.780324)"
-             id="text4641-5-4-3-5-5-0"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.0879px;line-height:1;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:start;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect4643-3-8-1-2-0-7-1);display:inline;fill:#080808;fill-opacity:1;stroke:none;stroke-width:3.74837;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
-             inkscape:label="Text"
-             x="77.593033"
-             y="0"><tspan
-               x="95.382646"
-               y="283.41556"
-               id="tspan66669"><tspan
-                 style="text-align:center;text-anchor:middle"
-                 id="tspan66667">YAHTZEE
-</tspan></tspan><tspan
-               x="92.056167"
-               y="318.88947"
-               id="tspan66673"><tspan
-                 style="font-size:37.0209px;text-align:center;text-anchor:middle"
-                 id="tspan66671">BONUS</tspan></tspan></text><text
-             xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1944px;line-height:1.25;font-family:'Libre Barcode 39';-inkscape-font-specification:'Libre Barcode 39, ';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09895;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              x="0"
              y="90.361732"
@@ -4686,7 +4682,29 @@
              transform="scale(1.0084389,0.99163168)"><tspan
                sodipodi:role="line"
                id="tspan57429"
-               style="stroke-width:2.09895"></tspan></text></g><g
+               style="stroke-width:2.09895" /></text><text
+             xml:space="preserve"
+             style="font-size:7.69616px;line-height:1.25;font-family:'Libre Barcode 39';-inkscape-font-specification:'Libre Barcode 39, ';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:none;stroke-width:2.09895;stroke-linecap:round;paint-order:markers stroke fill;stop-color:#000000"
+             x="38.355934"
+             y="83.540184"
+             id="text2383"
+             transform="scale(1.0084389,0.99163171)"><tspan
+               sodipodi:role="line"
+               id="tspan2381"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.69616px;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';fill:#080808;fill-opacity:1;stroke-width:2.09895"
+               x="38.355934"
+               y="83.540184">YAHTZEE</tspan></text><text
+             xml:space="preserve"
+             style="font-size:9.79512px;line-height:1.25;font-family:'Libre Barcode 39';-inkscape-font-specification:'Libre Barcode 39, ';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:none;stroke-width:2.09895;stroke-linecap:round;paint-order:markers stroke fill;stop-color:#000000"
+             x="38.355934"
+             y="92.985535"
+             id="text4839"
+             transform="scale(1.0084389,0.99163171)"><tspan
+               sodipodi:role="line"
+               id="tspan4837"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.79512px;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';fill:#080808;fill-opacity:1;stroke-width:2.09895"
+               x="38.355934"
+               y="92.985535">BONUS</tspan></text></g><g
            id="g5617-2-1-7-2-6-1"
            inkscape:label="How To Score"
            style="stroke-width:1.00012;stroke-dasharray:none"><rect
@@ -4704,15 +4722,15 @@
              inkscape:label="Text"><tspan
                x="120.08"
                y="279.31984"
-               id="tspan66677"><tspan
+               id="tspan10133"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66675">X FOR
+                 id="tspan10131">X FOR
 </tspan></tspan><tspan
                x="88.328003"
                y="303.31984"
-               id="tspan66681"><tspan
+               id="tspan10137"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66679">EACH BONUS</tspan></tspan></text></g><g
+                 id="tspan10135">EACH BONUS</tspan></tspan></text></g><g
            id="g5620-5-4-5-8-1-8"
            inkscape:label="Game 1"
            style="stroke-width:1.00012;stroke-dasharray:none"><g
@@ -5050,7 +5068,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66683">0</tspan></text></g><g
+               id="tspan10139">0</tspan></text></g><g
            id="g5623-7-2-2-2-8-1-8"
            inkscape:label="Game 2"
            transform="translate(-1.6095001e-6,31.749994)"><rect
@@ -5068,7 +5086,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66685">0</tspan></text></g><g
+               id="tspan10141">0</tspan></text></g><g
            id="g5626-2-6-4-6-34-0-9"
            inkscape:label="Game 3"
            transform="translate(-1.6095001e-6,31.749994)"><rect
@@ -5086,7 +5104,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66687">0</tspan></text></g><g
+               id="tspan10143">0</tspan></text></g><g
            id="g5629-3-2-2-2-1-9-8"
            inkscape:label="Game 4"
            transform="translate(-1.6095001e-6,31.749994)"><rect
@@ -5104,7 +5122,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66689">0</tspan></text></g><g
+               id="tspan10145">0</tspan></text></g><g
            id="g5634-1-6-5-9-75-8-2"
            inkscape:label="Game 5"
            transform="translate(-1.6095001e-6,31.749994)"><rect
@@ -5122,7 +5140,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66691">0</tspan></text></g><g
+               id="tspan10147">0</tspan></text></g><g
            id="g5637-2-6-2-7-5-3-9"
            inkscape:label="Game 6"
            transform="translate(-1.6095001e-6,31.749994)"><rect
@@ -5140,7 +5158,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66693">0</tspan></text></g><rect
+               id="tspan10149">0</tspan></text></g><rect
            style="fill:#e2e2e2;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
            id="rect4497-1-5-7-3-5-2-3-9"
            width="50.799999"
@@ -5155,15 +5173,15 @@
            inkscape:label="Text"><tspan
              x="96.872025"
              y="279.31984"
-             id="tspan66697"><tspan
+             id="tspan10153"><tspan
                style="font-weight:normal;-inkscape-font-specification:Oswald"
-               id="tspan66695">SCORE 100
+               id="tspan10151">SCORE 100
 </tspan></tspan><tspan
              x="120.59602"
              y="303.31984"
-             id="tspan66701"><tspan
+             id="tspan10157"><tspan
                style="font-weight:normal;-inkscape-font-specification:Oswald"
-               id="tspan66699">PER X</tspan></tspan></text></g><g
+               id="tspan10155">PER X</tspan></tspan></text></g><g
          id="g4416-8-4-4-7-9-8-9"
          inkscape:label="Total Of Lower Section"
          transform="translate(10.583331,277.8125)"><g
@@ -5185,7 +5203,7 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66703">TOTAL</tspan></text><text
+               id="tspan10159">TOTAL</tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,13.653948,2.9936929)"
              id="text4641-5-4-3-5-0-3-0"
@@ -5195,15 +5213,15 @@
              y="0"><tspan
                x="108.49984"
                y="275.9599"
-               id="tspan66707"><tspan
+               id="tspan10163"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66705">Of Lower
+                 id="tspan10161">Of Lower
 </tspan></tspan><tspan
                x="113.13851"
                y="296.49329"
-               id="tspan66711"><tspan
+               id="tspan10167"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66709">Section</tspan></tspan></text></g><g
+                 id="tspan10165">Section</tspan></tspan></text></g><g
            id="g5617-2-1-7-2-8-8-2"
            inkscape:label="How To Score"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5234,7 +5252,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66713">0</tspan></text></g><g
+               id="tspan10169">0</tspan></text></g><g
            id="g5623-7-2-2-2-0-6-8"
            inkscape:label="Game 2"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5251,7 +5269,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66715">0</tspan></text></g><g
+               id="tspan10171">0</tspan></text></g><g
            id="g5626-2-6-4-6-3-4-1"
            inkscape:label="Game 3"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5268,7 +5286,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66717">0</tspan></text></g><g
+               id="tspan10173">0</tspan></text></g><g
            id="g5629-3-2-2-2-2-6-7"
            inkscape:label="Game 4"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5285,7 +5303,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66719">0</tspan></text></g><g
+               id="tspan10175">0</tspan></text></g><g
            id="g5634-1-6-5-9-7-6-5"
            inkscape:label="Game 5"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5302,7 +5320,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66721">0</tspan></text></g><g
+               id="tspan10177">0</tspan></text></g><g
            id="g5637-2-6-2-7-3-7-6"
            inkscape:label="Game 6"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5319,7 +5337,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66723">0</tspan></text></g></g><g
+               id="tspan10179">0</tspan></text></g></g><g
          id="g29555"
          inkscape:label="Total Of Upper Section"
          transform="translate(10.583331,293.6875)"><g
@@ -5341,7 +5359,7 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66725">TOTAL</tspan></text><text
+               id="tspan10181">TOTAL</tspan></text><text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,13.653948,2.9936929)"
              id="text29497"
@@ -5351,15 +5369,15 @@
              y="0"><tspan
                x="108.22918"
                y="275.9599"
-               id="tspan66729"><tspan
+               id="tspan10185"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66727">Of Upper
+                 id="tspan10183">Of Upper
 </tspan></tspan><tspan
                x="113.13851"
                y="296.49329"
-               id="tspan66733"><tspan
+               id="tspan10189"><tspan
                  style="font-weight:normal;-inkscape-font-specification:Oswald"
-                 id="tspan66731">Section</tspan></tspan></text></g><g
+                 id="tspan10187">Section</tspan></tspan></text></g><g
            id="g29505"
            inkscape:label="How To Score"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5390,7 +5408,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66735">0</tspan></text></g><g
+               id="tspan10191">0</tspan></text></g><g
            id="g29521"
            inkscape:label="Game 2"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5407,7 +5425,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66737">0</tspan></text></g><g
+               id="tspan10193">0</tspan></text></g><g
            id="g29529"
            inkscape:label="Game 3"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5424,7 +5442,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66739">0</tspan></text></g><g
+               id="tspan10195">0</tspan></text></g><g
            id="g29537"
            inkscape:label="Game 4"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5441,7 +5459,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66741">0</tspan></text></g><g
+               id="tspan10197">0</tspan></text></g><g
            id="g29545"
            inkscape:label="Game 5"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5458,7 +5476,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66743">0</tspan></text></g><g
+               id="tspan10199">0</tspan></text></g><g
            id="g29553"
            inkscape:label="Game 6"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5475,7 +5493,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66745">0</tspan></text></g></g><g
+               id="tspan10201">0</tspan></text></g></g><g
          id="g34603"
          inkscape:label="Total Of Upper Section"
          transform="translate(10.583331,309.5625)"><g
@@ -5497,7 +5515,7 @@
              y="0"><tspan
                x="50"
                y="287.27977"
-               id="tspan66747">GRAND TOTAL</tspan></text></g><g
+               id="tspan10203">GRAND TOTAL</tspan></text></g><g
            id="g34553"
            inkscape:label="How To Score"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5528,7 +5546,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66749">0</tspan></text></g><g
+               id="tspan10205">0</tspan></text></g><g
            id="g34569"
            inkscape:label="Game 2"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5545,7 +5563,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66751">0</tspan></text></g><g
+               id="tspan10207">0</tspan></text></g><g
            id="g34577"
            inkscape:label="Game 3"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5562,7 +5580,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66753">0</tspan></text></g><g
+               id="tspan10209">0</tspan></text></g><g
            id="g34585"
            inkscape:label="Game 4"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5579,7 +5597,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66755">0</tspan></text></g><g
+               id="tspan10211">0</tspan></text></g><g
            id="g34593"
            inkscape:label="Game 5"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5596,7 +5614,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66757">0</tspan></text></g><g
+               id="tspan10213">0</tspan></text></g><g
            id="g34601"
            inkscape:label="Game 6"><rect
              style="fill:#c6c6c6;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -5613,7 +5631,7 @@
              inkscape:label="Text"><tspan
                x="134.60798"
                y="294.3464"
-               id="tspan66759">0</tspan></text></g></g></g><g
+               id="tspan10215">0</tspan></text></g></g></g><g
        id="g8058"
        inkscape:label="Other"><text
          xml:space="preserve"
@@ -5638,7 +5656,7 @@
            id="tspan1567"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';stroke-width:1.05833"
            x="196.00961"
-           y="19.193907">SCORECARD</tspan></text><text
+           y="19.193907">SCORE CARD</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;stroke-width:1.05833;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
          x="121.01971"
@@ -5690,13 +5708,7 @@
        width="14.816667"
        height="14.816667"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAIAAAAn5KxJAAAAA3NCSVQICAjb4U/gAAAA4UlEQVRo
-ge2ZwQ7DMAhDmyr//8vZrYIDEhbQzZrfqVtJZiHLJd26DOec53qt9VPf3xcJEtrNth8qfkJB96fp
-qIR2A5vMeshtFPg1Ux/VWGg6KqHd7OhGxYtRDepL5egkNELDHEU9FK3NzAOaR78BjdDUsz7jIbdp
-03NfOToJjVBnpkz+VTIyJUg5+hI0QkOPuqKBXIz2iWpoOiqh3aTm0cpZp8v3NB2V0G7cub4yd1Zq
-MmtpOiqh3cBnJvgHCu//NY9OQiM0laMW9L+oylrl6CQ0QuEzU9c8itbTdFRChfg3PhqSolmuNq1T
-AAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAIAAAAn5KxJAAAAA3NCSVQICAjb4U/gAAAA4UlEQVRo ge2ZwQ7DMAhDmyr//8vZrYIDEhbQzZrfqVtJZiHLJd26DOec53qt9VPf3xcJEtrNth8qfkJB96fp qIR2A5vMeshtFPg1Ux/VWGg6KqHd7OhGxYtRDepL5egkNELDHEU9FK3NzAOaR78BjdDUsz7jIbdp 03NfOToJjVBnpkz+VTIyJUg5+hI0QkOPuqKBXIz2iWpoOiqh3aTm0cpZp8v3NB2V0G7cub4yd1Zq MmtpOiqh3cBnJvgHCu//NY9OQiM0laMW9L+oylrl6CQ0QuEzU9c8itbTdFRChfg3PhqSolmuNq1T AAAAAElFTkSuQmCC "
        id="image26801"
        x="261.67291"
        y="3.96875"
