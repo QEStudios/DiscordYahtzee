@@ -150,14 +150,16 @@ class Scorecard:
         self.id = self._generate_id()
         self.revision = 0
 
-    @property
-    def _id_exists(self) -> bool:
+    def _id_exists(self, id_to_check) -> bool:
         return False  # TODO
 
     def _generate_id(self, length: int = 6) -> str:
         chars = string.ascii_lowercase + string.digits
 
-        generated_id = "".join(random.choice(chars) for _ in range(length))
+        while True:
+            generated_id = "".join(random.choice(chars) for _ in range(length))
+            if not self._id_exists(generated_id):
+                break
 
         return generated_id
 
