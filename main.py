@@ -1,7 +1,7 @@
 from typing import cast
 
 
-class Scorecard:
+class GameScorecard:
     """A scorecard for a single game"""
 
     UPPER_SECTION = ["ones", "twos", "threes", "fours", "fives", "sixes"]
@@ -86,7 +86,7 @@ class Scorecard:
 
     @property
     def is_complete(self) -> bool:
-        """Returns True if the scorecard is completely filled, else False"""
+        """Returns True if the player has filled in all 13 scoring categories"""
         return all(score is not None for score in self.scores.values())
 
     def __str__(self):

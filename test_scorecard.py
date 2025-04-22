@@ -1,39 +1,39 @@
 import main
 
 
-def test_scorecard_creation():
-    scorecard = main.Scorecard(1, "test")
+def test_game_scorecard_creation():
+    game_scorecard = main.GameScorecard(1, "test")
 
-    assert isinstance(scorecard, main.Scorecard)
-
-
-def test_scorecard_score_setting():
-    scorecard = main.Scorecard(1, "test")
-
-    scorecard.ones = 1
-    scorecard.twos = 2
-    scorecard.threes = 3
-    scorecard.fours = 4
-    scorecard.fives = 5
-    scorecard.sixes = 6
-
-    scorecard.three_of_a_kind = 7
-    scorecard.four_of_a_kind = 8
-    scorecard.full_house = 9
-    scorecard.small_straight = 10
-    scorecard.large_straight = 11
-    scorecard.yahtzee = 100
-    scorecard.chance = 12
-    scorecard.mark_yahtzee_bonus()
-    scorecard.mark_yahtzee_bonus()
-    scorecard.mark_yahtzee_bonus()
+    assert isinstance(game_scorecard, main.GameScorecard)
 
 
-def test_scorecard_printing():
-    scorecard = main.Scorecard(1, "test")
+def test_game_scorecard_score_setting():
+    game_scorecard = main.GameScorecard(1, "test")
 
-    scorecard.ones = 3
-    scorecard.yahtzee = 100
-    scorecard.mark_yahtzee_bonus()
+    game_scorecard.ones = 1
+    game_scorecard.twos = 2
+    game_scorecard.threes = 3
+    game_scorecard.fours = 4
+    game_scorecard.fives = 5
+    game_scorecard.sixes = 6
 
-    print(scorecard)
+    game_scorecard.three_of_a_kind = 7
+    game_scorecard.four_of_a_kind = 8
+    game_scorecard.full_house = 9
+    game_scorecard.small_straight = 10
+    game_scorecard.large_straight = 11
+    game_scorecard.yahtzee = 100
+    game_scorecard.chance = 12
+    game_scorecard.mark_yahtzee_bonus()
+    game_scorecard.mark_yahtzee_bonus()
+    game_scorecard.mark_yahtzee_bonus()
+
+
+def test_game_scorecard_printing():
+    game_scorecard = main.GameScorecard(1, "test")
+
+    game_scorecard.ones = 3
+    game_scorecard.yahtzee = 100
+    game_scorecard.mark_yahtzee_bonus()
+
+    print(game_scorecard)
