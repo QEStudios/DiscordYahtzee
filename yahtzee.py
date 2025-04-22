@@ -1,3 +1,4 @@
+from uuid import uuid4
 from typing import cast
 
 
@@ -21,6 +22,8 @@ class GameScorecard:
             category: None for category in self.ALL_CATEGORIES
         }  # None means the category hasn't been scored yet
         self.yahtzee_bonus: tuple[bool, bool, bool] = (False, False, False)
+
+        self.uuid = uuid4()
         self.revision = 0
 
         self.game_num = game_num
