@@ -184,3 +184,45 @@ class Match:
                 len(allocatable_players) == 0
             ), "Provided games don't have the same players as the match!"
             self.games = games
+
+
+class Session:
+    """A session of multiple matches"""
+
+    def __init__(self, matches: list[Match] = []):
+        self.matches = matches
+        self.involved_players: list[Player] = []
+
+        for match in matches:
+            for player in match.players:
+                if player not in self.involved_players:
+                    self.involved_players.append(player)
+
+        self.match_in_progress = False
+        self.uuid = uuid4()
+
+    @property
+    def current_match_num(self) -> int:
+        """Returns the current match number if a match is in progress"""
+        if self.match_in_progress == False:
+            raise RuntimeError("No active match")
+        return max(0, len(self.matches) - 1)
+
+    @property
+    def current_match(self) -> Match:
+        """Returns the current match if a match is in progress, else None"""
+        if self.match_in_progress == False:
+            raise RuntimeError("No active match")
+        return self.matches[self.current_match_num]
+
+    def start_match(self, players: list[Player]) -> Match:
+        """Start a new match in this session"""
+
+        if self.match_in_progress == True:
+            raise RuntimeError(
+                "Cannot start a new match until the current one is complete"
+            )
+
+        match = Match(players=players, game_num=len(self.matches))
+
+        return match
