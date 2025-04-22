@@ -2,13 +2,13 @@ import main
 
 
 def test_game_scorecard_creation():
-    game_scorecard = main.GameScorecard(1, "test")
+    game_scorecard = main.GameScorecard(game_num=0, player_num=0, player_name="alice")
 
     assert isinstance(game_scorecard, main.GameScorecard)
 
 
 def test_game_scorecard_score_setting():
-    game_scorecard = main.GameScorecard(1, "test")
+    game_scorecard = main.GameScorecard(game_num=0, player_num=0, player_name="bob")
 
     game_scorecard.ones = 1
     game_scorecard.twos = 2
@@ -30,7 +30,7 @@ def test_game_scorecard_score_setting():
 
 
 def test_game_scorecard_printing():
-    game_scorecard = main.GameScorecard(1, "test")
+    game_scorecard = main.GameScorecard(game_num=0, player_num=0, player_name="charlie")
 
     game_scorecard.ones = 3
     game_scorecard.yahtzee = 100
