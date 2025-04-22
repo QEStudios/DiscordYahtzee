@@ -2,6 +2,7 @@ import yahtzee
 
 
 def test_scorecard_creation():
-    scorecard = yahtzee.Scorecard(player_num=1, player_name="alice")
+    player = yahtzee.Player("alice", 0)
+    scorecard = yahtzee.Scorecard(player=player)
 
     assert isinstance(scorecard, yahtzee.Scorecard)
