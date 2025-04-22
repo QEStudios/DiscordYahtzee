@@ -44,6 +44,7 @@ class Game:
         self.match: Match | None = None
 
     def assign_match(self, match: Match) -> None:
+        """Assign a parent match to this game"""
         self.match = match
 
     def set_score(self, category: str, score: int) -> None:
