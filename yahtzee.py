@@ -1,3 +1,4 @@
+from __future__ import annotations
 import random
 import string
 from uuid import uuid4
@@ -39,6 +40,11 @@ class Game:
 
         self.game_num = game_num
         self.player = player
+
+        self.match: Match | None = None
+
+    def assign_match(self, match: Match) -> None:
+        self.match = match
 
     def set_score(self, category: str, score: int) -> None:
         """Set score for a category. Raises error if already filled or invalid category."""
@@ -158,3 +164,28 @@ class Scorecard:
         generated_id = "".join(random.choice(chars) for _ in range(length))
 
         return generated_id
+
+
+class Match:
+    """A single match between 2-10 players"""
+
+    def __init__(
+        self, players: list[Player], game_num: int, games: list[Game] | None = None
+    ):
+        self.players = players
+        self.uuid = uuid4()
+
+        if games == None:
+            self.games = [Game(game_num, player) for player in players]
+        else:
+            allocatable_players = players.copy()
+            for game in games:
+                assert (
+                    game.player in allocatable_players
+                ), "Provided games don't have the same players as the match!"
+                allocatable_players.remove(game.player)
+                game.assign_match(self)
+            assert (
+                len(allocatable_players) == 0
+            ), "Provided games don't have the same players as the match!"
+            self.games = games
