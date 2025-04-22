@@ -1,4 +1,4 @@
-import main
+import yahtzee
 
 
 def test_game_scorecard_creation():
