@@ -144,15 +144,10 @@ class Scorecard:
             self.games = [Game(game_num, player) for game_num in range(6)]
         else:
             self.games = games
-        self.current_game_num = 0
 
         self.uuid = uuid4()
         self.id = self._generate_id()
         self.revision = 0
-
-    @property
-    def current_game(self) -> Game:
-        return self.games[self.current_game_num]
 
     @property
     def _id_exists(self) -> bool:
