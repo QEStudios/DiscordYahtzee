@@ -4,6 +4,15 @@ from uuid import uuid4
 from typing import cast
 
 
+class Player:
+    """A single player"""
+
+    def __init__(self, name: str, player_num: int):
+        self.name = name
+        self.player_num = player_num
+        self.uuid = uuid4()
+
+
 class Game:
     """A single game for a single player"""
 
@@ -19,7 +28,7 @@ class Game:
     ]
     ALL_CATEGORIES = UPPER_SECTION + LOWER_SECTION
 
-    def __init__(self, game_num: int, player_num: int, player_name: str):
+    def __init__(self, game_num: int, player: Player):
         self.scores: dict[str, int | None] = {
             category: None for category in self.ALL_CATEGORIES
         }  # None means the category hasn't been scored yet
@@ -29,8 +38,7 @@ class Game:
         self.revision = 0
 
         self.game_num = game_num
-        self.player_num = player_num
-        self.player_name = player_name
+        self.player = player
 
     def set_score(self, category: str, score: int) -> None:
         """Set score for a category. Raises error if already filled or invalid category."""
@@ -124,10 +132,9 @@ class Game:
 class Scorecard:
     """A scorecard for 6 games, equivalent to a single score card sheet in Yahtzee"""
 
-    def __init__(self, player_num: int, player_name: str):
-        self.player_num = player_num
-        self.player_name = player_name
-        self.games = [Game(game_num, player_num, player_name) for game_num in range(6)]
+    def __init__(self, player: Player):
+        self.player = player
+        self.games = [Game(game_num, player) for game_num in range(6)]
         self.current_game_num = 0
 
         self.uuid = uuid4()
