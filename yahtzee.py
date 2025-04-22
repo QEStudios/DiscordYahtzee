@@ -132,9 +132,12 @@ class Game:
 class Scorecard:
     """A scorecard for 6 games, equivalent to a single score card sheet in Yahtzee"""
 
-    def __init__(self, player: Player):
+    def __init__(self, player: Player, games: list[Game] | None = None):
         self.player = player
-        self.games = [Game(game_num, player) for game_num in range(6)]
+        if games == None:
+            self.games = [Game(game_num, player) for game_num in range(6)]
+        else:
+            self.games = games
         self.current_game_num = 0
 
         self.uuid = uuid4()
