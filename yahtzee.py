@@ -1,3 +1,5 @@
+import random
+import string
 from uuid import uuid4
 from typing import cast
 
@@ -117,3 +119,32 @@ class Game:
         if name in self.ALL_CATEGORIES:
             self.set_score(name, value)
         super().__setattr__(name, value)
+
+
+class Scorecard:
+    """A scorecard for 6 games, equivalent to a single score card sheet in Yahtzee"""
+
+    def __init__(self, player_num: int, player_name: str):
+        self.player_num = player_num
+        self.player_name = player_name
+        self.games = [Game(game_num, player_num, player_name) for game_num in range(6)]
+        self.current_game_num = 0
+
+        self.uuid = uuid4()
+        self.id = self._generate_id()
+        self.revision = 0
+
+    @property
+    def current_game(self) -> Game:
+        return self.games[self.current_game_num]
+
+    @property
+    def _id_exists(self) -> bool:
+        return False  # TODO
+
+    def _generate_id(self, length: int = 6) -> str:
+        chars = string.ascii_lowercase + string.digits
+
+        generated_id = "".join(random.choice(chars) for _ in range(length))
+
+        return generated_id
