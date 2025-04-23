@@ -36,7 +36,6 @@ class Game:
         self.yahtzee_bonus: tuple[bool, bool, bool] = (False, False, False)
 
         self.uuid = uuid4()
-        self.revision = 0
 
         self.game_num = game_num
         self.player = player
@@ -54,7 +53,6 @@ class Game:
         if self.scores[category] is not None:
             raise ValueError(f"Category '{category}' already scored.")
         self.scores[category] = score
-        self.revision += 1
 
     def mark_yahtzee_bonus(self) -> None:
         """Marks the next available Yahtzee bonus slot as used."""
@@ -63,7 +61,6 @@ class Game:
                 bonus_list = list(self.yahtzee_bonus)
                 bonus_list[i] = True
                 self.yahtzee_bonus = cast(tuple[bool, bool, bool], tuple(bonus_list))
-                self.revision += 1
                 return
         raise ValueError("All Yahtzee bonus slots are already used.")
 
@@ -150,7 +147,6 @@ class Scorecard:
 
         self.uuid = uuid4()
         self.id = self._generate_id()
-        self.revision = 0
 
     def _id_exists(self, id_to_check) -> bool:
         return False  # TODO
