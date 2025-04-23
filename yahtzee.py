@@ -192,13 +192,17 @@ class Match:
 class Session:
     """A session of multiple matches"""
 
+    MAX_GAMES = 6
+
     def __init__(self, matches: list[Match] = []):
         self.matches = matches
+        self.scorecards = []
         self.involved_players: list[Player] = []
 
         for match in matches:
             for player in match.players:
                 if player not in self.involved_players:
+                    self.scorecards.append(Scorecard(player=player))
                     self.involved_players.append(player)
 
         self.match_in_progress = False
