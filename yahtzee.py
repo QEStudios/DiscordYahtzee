@@ -139,10 +139,12 @@ class Game:
 class Scorecard:
     """A scorecard for 6 games, equivalent to a single score card sheet in Yahtzee"""
 
+    MAX_GAMES = 6
+
     def __init__(self, player: Player, games: list[Game] | None = None):
         self.player = player
         if games == None:
-            self.games = [Game(game_num, player) for game_num in range(6)]
+            self.games = [Game(game_num, player) for game_num in range(self.MAX_GAMES)]
         else:
             self.games = games
 
@@ -191,8 +193,6 @@ class Match:
 
 class Session:
     """A session of multiple matches"""
-
-    MAX_GAMES = 6
 
     def __init__(self, matches: list[Match] = []):
         self.matches = matches
