@@ -213,7 +213,7 @@ class Session:
 
     @property
     def current_match(self) -> Match:
-        """Returns the current match if a match is in progress, else None"""
+        """Returns the current match if a match is in progress"""
         if self.match_in_progress == False:
             raise RuntimeError("No active match")
         return self.matches[self.current_match_num]
