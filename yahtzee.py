@@ -2,7 +2,19 @@ from __future__ import annotations
 import random
 import string
 from uuid import uuid4
-from typing import cast
+from dataclasses import dataclass
+
+
+@dataclass
+class Die:
+    """A single die"""
+
+    value: int = 1
+    held: bool = False
+
+    def roll(self) -> int:
+        self.value = random.randint(1, 6)
+        return self.value
 
 
 class Player:
