@@ -228,4 +228,6 @@ class Session:
 
         match = Match(players=players, game_num=len(self.matches))
 
+        self.matches.append(match)
+
         return match
