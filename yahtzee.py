@@ -188,9 +188,14 @@ class Match:
 
 
 class Session:
-    """A session of multiple matches"""
+    """A session of 6 matches"""
+
+    MAX_MATCHES = 6
 
     def __init__(self, matches: list[Match] = []):
+        assert (
+            len(matches) < self.MAX_MATCHES
+        ), f"Match count exceeds max match count of sessions ({self.MAX_MATCHES})"
         self.matches = matches
         self.scorecards = []
         self.involved_players: list[Player] = []
@@ -224,6 +229,11 @@ class Session:
         if self.match_in_progress == True:
             raise RuntimeError(
                 "Cannot start a new match until the current one is complete"
+            )
+
+        if len(self.matches) >= self.MAX_MATCHES:
+            raise RuntimeError(
+                f"Session cannot start a new game, max of {self.MAX_MATCHES} games reached!"
             )
 
         match = Match(players=players, game_num=len(self.matches))
